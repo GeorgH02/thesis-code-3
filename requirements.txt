@@ -1,0 +1,11 @@
+pandas
+transformers
+torch
+huggingface
+huggingface_hub
+accelerate
+ipywidgets
+sklearn
+re
+urlextract
+json
