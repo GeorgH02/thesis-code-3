@@ -1,3 +1,7 @@
 analysis_data/
 NER_data/
 SA_data/
+models/
+logs/
+results/
+wandb/

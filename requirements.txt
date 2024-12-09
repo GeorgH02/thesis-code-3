@@ -13,3 +13,4 @@ urlextract
 json
 matplotlib
 wordcloud
+datasets
