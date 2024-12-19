@@ -1,0 +1,31 @@
+Performance results:
+
+SA:
+
+BerTWEET-Base-Sentiment-Analysis with 8600 rows of Brand Sentiment Analysis data (no own fine-tuning): 
+Accuracy = 72,89%
+Precision = 88,1%
+Recall = 72,89%
+F1 = 78,84%
+
+BerTWEET-Base-Sentiment-Analysis fine-tuned with 8600 rows of Brand Sentiment Analysis data and 2 epochs, 
+tested on Tweets Big Tech data: 
+Accuracy = 56,34%
+Precision = 58,9%
+Recall = 56,34%
+F1 = 48,42%
+
+
+
+NER:
+
+Covid-Twitter-BERT with 4700 rows of TweetNER7 and 3 epochs: 
+Precision = 47%
+Recall = 5,3%
+F1 = 9,5%
+
+Covid-Twitter-BERT with 10000 rows of TweetNER7 and 5 epochs: 
+Precision = 33,1%
+Recall = 3,6% 
+F1 = 6,5%
+increasing validation loss -> overfitting? bigger dataset necessary?
