@@ -15,6 +15,12 @@ Precision = 58,9%
 Recall = 56,34%
 F1 = 48,42%
 
+LLaMA-2-7b-chat-hf without fine-tuning applied to Tweets-BigTech data:
+Accuracy: 0.5095714285714286
+Precision: 0.5198912251111576
+Recall: 0.5095714285714286
+F1-Score: 0.43648145124446003
+
 
 
 NER:
